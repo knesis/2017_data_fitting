@@ -7,6 +7,7 @@
 
 Assesses diagnostic significance of parametric fits on two-class data under various distributions, and estimates parameters.
 Computes statistical transformations of the estimated distributions, and evaluates system improvement.
+Some code adapted from P.M. Shankar.
 
 * Sample data provided in "probdata.xlsx"
 * Sample output figures collected in "sample_output.pdf"
